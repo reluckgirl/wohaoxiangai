@@ -1,0 +1,26 @@
+{
+"name": "woaiyouchuyouwei",
+"version": "1.0.0",
+"description": "Implemented a simple search function that",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/reluckgirl/wohaoxiangai.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "reluckgirl",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
